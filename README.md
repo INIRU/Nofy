@@ -31,6 +31,10 @@
  이 앱은 <b>Android OS</b>기반으로 만들어졌으며 오직 <b>Android OS</b>에서만 사용할 수 있습니다. <br>
 아직 대회용을 제작된 데모 버전이며 누구나 이 앱을 빌드 하여 테스트할 수 있습니다.
 
+## 설명
+이 앱은 WiFi가 꺼져있더라도 WiFi 모듈을 사용하여 Wi Fi의 고유 BSSID를 인식하여 알림으로 알려주는 앱입니다. <br>
+도착역의 BSSID가 데이터베이스에 등록되어 있어 앱이 지정된 도착역의 BSSID를 인식하면 사용자에게 알림을 보내줍니다.
+
 ## 개발
  이 앱은 단 두명의 <b>학생 개발자</b>에 의해 제작되었습니다.<br><br>
 <b>[INIRU](https://github.com/INIRU) - `Main Programmer`, `Main Screen UI`, `DataBase`</b> <br>
