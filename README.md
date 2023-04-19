@@ -28,24 +28,27 @@
 </p>
 
 ## 호환성
- 이 앱은 <b>Android OS</b>기반으로 만들어졌으며 오직 <b>Android OS</b>에서만 사용할 수 있습니다. <br>
+
+이 앱은 <b>Android OS</b>기반으로 만들어졌으며 오직 <b>Android OS</b>에서만 사용할 수 있습니다. <br>
 아직 대회용을 제작된 데모 버전이며 누구나 이 앱을 빌드 하여 테스트할 수 있습니다.
 
 ## 설명
+
 이 앱은 WiFi가 꺼져있더라도 WiFi 모듈을 사용하여 Wi Fi의 고유 BSSID를 인식하여 알림으로 알려주는 앱입니다. <br>
 도착역의 BSSID가 데이터베이스에 등록되어 있어 앱이 지정된 도착역의 BSSID를 인식하면 사용자에게 알림을 보내줍니다.
 
 ## 개발
- 이 앱은 단 두명의 <b>학생 개발자</b>에 의해 제작되었습니다.<br><br>
+
+이 앱은 단 두명의 <b>학생 개발자</b>에 의해 제작되었습니다.<br><br>
 <b>[INIRU](https://github.com/INIRU) - `Main Programmer`, `Main Screen UI`, `DataBase`</b> <br>
 <b>[Chani](https://github.com/chani1110) - `Sub Programmer`, `Notification UI`, `Search Engine`, `BSSID Detect`</b>
 
 ## 라이센스
- 이 앱은 <a href="https://github.com/INIRU/Subway_Notification/blob/main/LICENSE" target="_blank">MIT 라이센스</a> 조건에 따라 라이센스가 부여됩니다. <br>
+
+이 앱은 <a href="https://github.com/INIRU/Subway_Notification/blob/main/LICENSE" target="_blank">MIT 라이센스</a> 조건에 따라 라이센스가 부여됩니다. <br>
 자세한 내용은 [LICENSE.txt](LICENSE.txt)를 참고하십시오.
 
 ## 크레딧
 
 - [미래산업과학고등학교 컴퓨터특허과](https://mist.sen.hs.kr) - 저희의 성장을 지원해 주신 컴퓨터특허과 선생님분들께 다시 한번 감사의 말씀을 올립니다.
 - [전국 고등학교 동아리 소프트웨어 경진대회](https://www.highschool-swcontest.net) - 대회 주체 밑 관리
-
