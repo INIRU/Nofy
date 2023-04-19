@@ -37,8 +37,11 @@
 <b>[Chani](https://github.com/chani1110) - `Sub Programmer`, `Notification UI`, `Search Engine`, `BSSID Detect`</b>
 
 ## 라이센스
- 이 앱은 <a href="https://github.com/INIRU/Subway_Notification/blob/main/LICENSE" target="_blank">MIT 라이센스</a> 조건에 따라 라이센스가 부여됩니다.
- 
+ 이 앱은 <a href="https://github.com/INIRU/Subway_Notification/blob/main/LICENSE" target="_blank">MIT 라이센스</a> 조건에 따라 라이센스가 부여됩니다. <br>
+자세한 내용은 [LICENSE.txt](LICENSE.txt)를 참고하십시오.
 
+## 크레딧
 
+- [미래산업과학고등학교 컴퓨터특허과](https://mist.sen.hs.kr) - 저희의 성장을 지원해 주신 컴퓨터특허과 선생님분들께 다시 한번 감사의 말씀을 올립니다.
+- [전국 고등학교 동아리 소프트웨어 경진대회](https://www.highschool-swcontest.net) - 대회 주체 밑 관리
 
