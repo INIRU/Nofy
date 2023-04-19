@@ -34,7 +34,7 @@
 ## 개발
  이 앱은 단 두명의 <b>학생 개발자</b>에 의해 제작되었습니다.<br><br>
 <b>[INIRU](https://github.com/INIRU) - `Main Programmer`, `Main Screen UI`, `DataBase`</b> <br>
-<b>[Chani](https://github.com/chani1110) - `Sub Programmer`, `Notification UI`, `Search Engine`</b>
+<b>[Chani](https://github.com/chani1110) - `Sub Programmer`, `Notification UI`, `Search Engine`, `BSSID Detect`</b>
 
 ## 라이센스
  이 앱은 <a href="https://github.com/INIRU/Subway_Notification/blob/main/LICENSE" target="_blank">MIT 라이센스</a> 조건에 따라 라이센스가 부여됩니다.
