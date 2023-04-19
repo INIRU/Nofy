@@ -16,7 +16,7 @@
   <a href="https://dart.dev">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" alt="">
   </a>
-  <a href="https://flutter.dev">
+  <a href="https://www.android.com/">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" alt="">
   </a>
   
