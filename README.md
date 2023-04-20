@@ -46,7 +46,7 @@
 ## 라이센스
 
 이 앱은 <a href="https://github.com/INIRU/Subway_Notification/blob/main/LICENSE" target="_blank">MIT 라이센스</a> 조건에 따라 라이센스가 부여됩니다. <br>
-자세한 내용은 [LICENSE.txt](LICENSE.txt)를 참고하십시오.
+자세한 내용은 [LICENSE](LICENSE)를 참고하십시오.
 
 ## 크레딧
 
