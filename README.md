@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Subway_Notification</b>
+  <b>Nofy</b>
   <br>
   <sub><sup><b>(지하철역 도착알림)</b></sup></sub>
   <br>
